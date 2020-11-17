@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159894281121",
+    "firebase_url": "https://igiza-c696c.firebaseio.com",
+    "project_id": "igiza-c696c",
+    "storage_bucket": "igiza-c696c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159894281121:android:9eb23f3593fda5fa7349e0",
+        "android_client_info": {
+          "package_name": "com.fourtyfive.igiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159894281121-qi862rht645hl15rua4n3f1v703qb8p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourtyfive.igiza",
+            "certificate_hash": "2ca713feebaa4e840d7454b80f6e87719b129d74"
+          }
+        },
+        {
+          "client_id": "159894281121-2hqbf0733te1e75jn4ceascub131en3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrX53TmIvSTBCD0mwFeZNphzUSThmDso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159894281121-2hqbf0733te1e75jn4ceascub131en3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
